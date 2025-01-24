@@ -1,4 +1,4 @@
-<h1>CEH Lab 6</h1>
+<h1>System Hacking</h1>
 
 
 ![Image Alt](https://github.com/DannyRRios/CEH-Lab-6/blob/4f3d7befeae4e2e3a21740047a76f824a6f4c6ba/Lab6-2.png)

@@ -1,7 +1,7 @@
 <h1>System Hacking</h1>
 
 
-![Image Alt](https://github.com/DannyRRios/CEH-Lab-6/blob/4f3d7befeae4e2e3a21740047a76f824a6f4c6ba/Lab6-2.png)
+![Image Alt](https://github.com/DannyRRios/System-Hacking/blob/230084cffb0df01c86b485b12ca1c90fd2215a6e/Lab6-3.png)
 
 This is a screenshot of the final step I completed! 
 

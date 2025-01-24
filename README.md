@@ -2,6 +2,7 @@
 
 
 ![Image Alt](https://github.com/DannyRRios/CEH-Lab-6/blob/cb36378fb21cd3a23dc476b8aceccc4ac5ba17ed/Lab6-1.png)
+
 This is a screenshot of the final step I completed! 
 
 <h2>Description</h2>
